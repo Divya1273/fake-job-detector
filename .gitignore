@@ -1,0 +1,26 @@
+# Model files (too large for GitHub)
+*.pkl
+*.h5
+models/
+processed_data/
+
+# Plots (generated when you run the notebook)
+plots/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Empty scraped data
+scraped_jobs_*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+venv/
+env/

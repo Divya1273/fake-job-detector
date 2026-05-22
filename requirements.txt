@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+imbalanced-learn
+nltk
+streamlit
+requests
+beautifulsoup4
+lxml
+matplotlib
+seaborn
+tensorflow
+scipy
