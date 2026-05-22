@@ -117,9 +117,8 @@ Open your browser at `http://localhost:8501`
 
 ---
 
-## Web App Screenshot
-
-Enter any job posting details → get an instant fraud probability score + red flag breakdown.
+## Web App Demo
+![Fake Job Detector Demo](demo.gif)
 
 ---
 
